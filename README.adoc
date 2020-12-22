@@ -1,6 +1,6 @@
-= M-JC1-55-20
+= M-JC1-66-20
 
-The material for the group M-JC1-55-20
+The material for the group M-JC1-66-20
 
 == Процесс работы
 
@@ -16,7 +16,7 @@ The material for the group M-JC1-55-20
 
 == Занятия
 
-|==
+|===
 |№|Theme|Date|Homework|Test|Due date
 |1|Введение|22.12.2020|link:https://github.com/rakovets/course-java-basics/tree/intro[branch: intro]|-|24.12.2020
 |===
