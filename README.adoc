@@ -1,0 +1,22 @@
+= M-JC1-55-20
+
+The material for the group M-JC1-55-20
+
+== Процесс работы
+
+Процесс работы над темами, которые изучаются на занятиях:
+
+* прочитать теоритический материал (контроль: test, влият на GRADE)
+* выполнить задания предложенные преподавателем (контроль: manual review with your unit-tests, влияет на GRADE)
+** одно задание - один commit
+** сделать push на GitHub
+** сделать Pull Request в соответствующую ветку root repository
+** на выполнение задания отводится 6 дней, следующих за днем когда занятие по этой теме состоялось
+* выполнить задания в рабочей тетради (контроль: manual review with trainer, не влияет на GRADE)
+
+== Занятия
+
+|==
+|№|Theme|Date|Homework|Test|Due date
+|1|Введение|22.12.2020|link:https://github.com/rakovets/course-java-basics/tree/intro[branch: intro]|-|24.12.2020
+|===
