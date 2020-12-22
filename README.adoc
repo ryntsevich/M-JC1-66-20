@@ -2,7 +2,16 @@
 
 The material for the group M-JC1-66-20
 
-== Процесс работы
+== Lessons
+
+|===
+|№|Theme|Date|Due date|Homework|Test
+|1|Введение|22.12.2020|24.12.2020|link:https://github.com/rakovets/course-java-basics/tree/intro[branch: intro]|-
+|===
+
+== Process
+
+image::./images/process.svg[Process]
 
 Процесс работы над темами, которые изучаются на занятиях:
 
@@ -14,9 +23,36 @@ The material for the group M-JC1-66-20
 ** на выполнение задания отводится 6 дней, следующих за днем когда занятие по этой теме состоялось
 * выполнить задания в рабочей тетради (контроль: manual review with trainer, не влияет на GRADE)
 
-== Занятия
+== Communication
 
-|===
-|№|Theme|Date|Homework|Test|Due date
-|1|Введение|22.12.2020|link:https://github.com/rakovets/course-java-basics/tree/intro[branch: intro]|-|24.12.2020
-|===
+* *Telegram*:
+** Зарегистрироваться.
+** Отправить сообщение тренеру, которое содержит Ваше имя и фамилию на английском языке, используя никнейм `@rakovets` или номер `+375297902100`.
+** После этого, Вы будете добавлены в 2 группы:
+*** `M-JC1-66-20-dev` - используется для взаимодействия в группе
+*** `M-JC1-66-20-prod` - используется для объявлений и решения вопросов/проблем, которые не могли быть решены в первой, так как преподаватель мог не увидеть/прочитать Ваше сообщение.
+
+* *Gmail*:
+** Зарегистрироваться.
+** Подписываемся на *YouTube* канал: link:https://www.youtube.com/channel/UCIztUGTxSCyqksE3HxFgI_w[Dmitry Rakovets].
+** Отправить сообщение тренеру в Telegram, которое содержит Ваш *email* (*gmail*).
+** После этого вы получите доступ к *электронному журналу*, который сожержит текущие отметки.
+** На этот *email*, так же будет предоставляться доступ к закрытым видео на *YuoTube*, если таковые будут.
+
+* *GitHub*:
+** Зарегистрироваться.
+** Подписываемя на пользователя: link:https://www.github.com/rakovets[Dmitry Rakovets].
+** Ставим "звездочку" для репозитория `course-java-basics`, `wiki`, `presentation`.
+** Делаем `fork` для репозитория `course-java-basics`.
+** Почти все задания будут выполняться в репозитории `course-java-basics`.
+
+* *LinkedIn*:
+** Зарегистрироваться.
+** Отправляем `Connect` пользователю: link:https://www.linkedin.com/in/rakovets/[Dmitry Rakovets].
+** Оформляем текущее место работы: IT-academy, Trainee (можно подсмотреть у преподавателя).
+
+== Software
+
+* link:https://jdk.java.net/java-se-ri/11[OpenJDK 11]
+* link:https://www.jetbrains.com/idea/download[IntelliJ IDEA Community Edition]
+* link:https://git-scm.com/[Git]
