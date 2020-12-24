@@ -6,7 +6,8 @@ The material for the group M-JC1-66-20
 
 |===
 |№|Theme|Date|Due date|Homework|Test
-|1|Введение|22.12.2020|24.12.2020|link:https://github.com/rakovets/course-java-basics/tree/intro[branch: intro]|-
+|1|Введение|22.12.2020|24.12.2020|link:https://github.com/rakovets/course-java-basics/tree/intro[branch: intro]|link:https://forms.gle/XHwuj6ZJbbUqP7xA6[intro]
+|2|Типы данных. Переменные. Операторы|24.12.2020|30.12.2020|link:https://github.com/rakovets/course-java-basics/tree/operators[branch: operators]|-
 |===
 
 == Process
