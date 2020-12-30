@@ -7,6 +7,10 @@ The material for the group M-JC1-66-20
 * Необходимо выполнить действия описанные в блоке *Communication* 
 * Необходимо установить программное обеспечение указанное в блоке *Software*
 
+== Feedback
+
+link:https://forms.gle/MhYeTxiHfruSRNcr5[Google Form for a feedback]
+
 == Process
 
 === Основные концепции
