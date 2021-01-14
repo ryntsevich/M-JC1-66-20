@@ -57,6 +57,8 @@ image::./images/process.svg[Process]
 |2|Типы данных. Переменные. Операторы. Методы.|24.12.2020|30.12.2020|link:https://github.com/rakovets/course-java-basics/tree/operators[branch: operators]|link:https://forms.gle/5wDwXhgScm7JVt668[data-types]
 |3|Операторы if/switch.|29.12.2020|04.01.2020|link:https://github.com/rakovets/course-java-basics/tree/conditional-statements[branch: conditional-statements]|link:https://forms.gle/96Tid9tRY9m3bhwZ9[conditional-statements]
 |4|Циклы.|05.01.2021|11.01.2021|link:https://github.com/rakovets/course-java-basics/tree/loops[branch: loops]|https://forms.gle/PVtDkLD2W4jxgV5D9[looping-statements]
+|5|Массивы|12.01.2021|18.01.2021|link:https://github.com/rakovets/course-java-basics/tree/array[branch: array]|link:https://forms.gle/iJCRVKnJacDg7x968[array]
+|6|Классы и объекты|14.01.2021|20.01.2021|link:https://github.com/rakovets/course-java-basics/tree/oop-classes-and-objects[branch: oop-classes-and-objects]|-
 |===
 
 
