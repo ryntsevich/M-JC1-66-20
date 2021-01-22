@@ -15,8 +15,8 @@ link:https://forms.gle/MhYeTxiHfruSRNcr5[Google Form for a feedback]
 
 === Основные концепции
 
-* One lesson ~ One theme ~ One practice task ~ One branch with theme name.
-* Branch для theme содержит стартовый проект для текущей темы.
+* *One lesson* ~ *One theme* ~ *One practice task* ~ *One branch with theme name*.
+* *Branch* для *theme* содержит стартовый проект для текущей темы.
 * Выполнение задания по какой-то теме происходит ТОЛЬКО в соответствующей ветке.
 
 === Процесс работы над заданиями/темами
@@ -26,22 +26,22 @@ link:https://forms.gle/MhYeTxiHfruSRNcr5[Google Form for a feedback]
 image::./images/process.svg[Process]
 
 * *TO DO*
-** после окончания занятия по какой-то теме, дается практические задание по этой теме
+** после окончания занятия по какой-то теме, дается практическое задание по этой теме
 
 * *IN PROGRESS*
-** прочитать теоритический материал (контроль: test, влият на GRADE)
+** прочитать теоретический материал (контроль: test, влияет на GRADE)
 ** выполнить задания предложенные преподавателем (контроль: manual review with your unit-tests, влияет на GRADE)
 *** на выполнение задания отводится 6 дней, следующих за днем когда занятие по этой теме состоялось
-*** одно задание - один commit
+*** одно задание — один commit
 *** сделать push на GitHub после выполнения заданий
 ** выполнить задания в рабочей тетради (контроль: manual review with trainer, не влияет на GRADE)
 
 * *TO REVIEW*
-** Cделать *Pull Request* в соответствующую ветку repository преподавателя.
+** Сделать *Pull Request* в соответствующую ветку repository преподавателя.
 
 * *TO FIX*
 ** Если после *code review* есть замечания по коду, то их необходимо устранить.
-** Если не все задания были выполнены, то следует разобраться в правильно выполненом задании.
+** Если не все задания были выполнены, то следует разобраться в правильно выполненном задании и реализовать его.
 
 * *APPROVED*
 ** Проведен *code review* и все задания выполнены правильно, без значительных недочетов.
@@ -60,6 +60,7 @@ image::./images/process.svg[Process]
 |5|Массивы|12.01.2021|18.01.2021|link:https://github.com/rakovets/course-java-basics/tree/array[branch: array]|link:https://forms.gle/iJCRVKnJacDg7x968[array]
 |6|Классы и объекты|14.01.2021|20.01.2021|link:https://github.com/rakovets/course-java-basics/tree/oop-classes-and-objects[branch: oop-classes-and-objects]|link:https://forms.gle/CK1ML5XZ5LnVKS8J7[oop-classes-and-objects]
 |7|Строки и регулярные выражения|19.01.2021|25.01.2021|link:https://github.com/rakovets/course-java-basics/tree/string[branch: string]|link:https://forms.gle/iGGD37TV2EtBHjZB6[string]
+|8|Наследование и полиморфизм. Внутренние и анонимные классы|21.01.2021|27.01.2021|link:https://github.com/rakovets/course-java-basics/tree/oop-principles[branch: oop-principles]|-
 |===
 
 
@@ -78,12 +79,12 @@ image::./images/process.svg[Process]
 ** Зарегистрироваться.
 ** Подписываемся на *YouTube* канал: link:https://www.youtube.com/channel/UCIztUGTxSCyqksE3HxFgI_w[Dmitry Rakovets].
 ** Отправить сообщение тренеру в Telegram, которое содержит Ваш *email* (*gmail*).
-** После этого вы получите доступ к *электронному журналу*, который сожержит текущие отметки.
+** После этого вы получите доступ к *электронному журналу*, который содержит текущие отметки.
 ** На этот *email*, так же будет предоставляться доступ к закрытым видео на *YuoTube*, если таковые будут.
 
 * *GitHub*:
 ** Зарегистрироваться.
-** Подписываемя на пользователя: link:https://www.github.com/rakovets[Dmitry Rakovets].
+** Подписываемся на пользователя: link:https://www.github.com/rakovets[Dmitry Rakovets].
 ** Ставим "звездочку" для репозитория `course-java-basics`, `wiki`, `presentation`.
 ** Делаем `fork` для репозитория `course-java-basics`.
 ** Почти все задания будут выполняться в репозитории `course-java-basics`.
