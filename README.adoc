@@ -60,7 +60,7 @@ image::./images/process.svg[Process]
 |5|Массивы|12.01.2021|18.01.2021|link:https://github.com/rakovets/course-java-basics/tree/array[branch: array]|link:https://forms.gle/iJCRVKnJacDg7x968[array]
 |6|Классы и объекты|14.01.2021|20.01.2021|link:https://github.com/rakovets/course-java-basics/tree/oop-classes-and-objects[branch: oop-classes-and-objects]|link:https://forms.gle/CK1ML5XZ5LnVKS8J7[oop-classes-and-objects]
 |7|Строки и регулярные выражения|19.01.2021|25.01.2021|link:https://github.com/rakovets/course-java-basics/tree/string[branch: string]|link:https://forms.gle/iGGD37TV2EtBHjZB6[string]
-|8|Наследование и полиморфизм. Внутренние и анонимные классы|21.01.2021|27.01.2021|link:https://github.com/rakovets/course-java-basics/tree/oop-principles[branch: oop-principles]|-
+|8|Наследование и полиморфизм. Внутренние и анонимные классы|21.01.2021|27.01.2021|link:https://github.com/rakovets/course-java-basics/tree/oop-principles[branch: oop-principles]|https://forms.gle/JUnjhBMWZDq7Fmuf7
 |===
 
 
